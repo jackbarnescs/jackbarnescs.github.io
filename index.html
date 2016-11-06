@@ -1,37 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="stylesheet.css">
-<title>Jack Barnes Personal Website</title>
-<script>
-function searchFunction() {
-    var input, filter, ul, li, a, i;
-    input = document.getElementById('searchBar');
-    filter = input.value.toUpperCase();
-    ul = document.getElementById("articleList");
-    li = ul.getElementsByTagName('li');
-
-    for (i = 0; i < li.length; i++) {
-        a = li[i].getElementsByTagName("a")[0];
-        if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
-            li[i].style.display = "";
-        } else {
-            li[i].style.display = "none";
-        }
-    }
-}
-</script>
+    <title>Jack Barnes CS Wiki</title>
 </head>
 <body>
-<h1>Jack Barnes - Home</h1>
-<input type="text" id ="searchBar" onekeyup="searchFunction" placeholder="Search for an article..."
-<ul id ="artileList">
-  <li><a href="#Processors" class="header">Processors</a></li>
-  <li><a href='#MAR'>Memory Address Register</a></li>
-  <li><a href='#MDR'>Memory Data Register</a></li>
-  <li><a href='#CIR'>Current Instruction Register</a></li>
-  <li><a href='#ACC'>Accumulator</a></li>
-  <li><a href='#PC'>Program  Counter</a></li>
-</ul>
+    <h1>Jack Barnes Wiki</h1>
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
 </body>
 </html>
