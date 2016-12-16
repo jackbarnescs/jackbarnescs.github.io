@@ -6,6 +6,11 @@
 ***** Articles Added *****
  - Registers Portal 16/12/2016
  - MAR 16/12/2016
+ - CIR 16/12/2016
+ - MDR 16/12/2016
+ - ACC 16/12/2016
+ - PC 16/12/2016
+ - All registers articles CREATED, not finished. 16/12/2016.
 ***** Articles Edited *****
- - X
+ - New action plan devised, 16/12/2016
  
