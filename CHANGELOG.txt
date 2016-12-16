@@ -1,0 +1,11 @@
+***** CHANGELOG *****
+***** Structural changes *****
+ - Put all articles into the 'pages' folder. 16/12/2016
+ - Created folders for each sub-category such as 'registers' which will act as sections, independnent of spec. 16/12/2016
+ - Standardised article directories such as: 'pages/registers/register_home.html' 16/12/2016
+***** Articles Added *****
+ - Registers Portal 16/12/2016
+ - MAR 16/12/2016
+***** Articles Edited *****
+ - X
+ 
